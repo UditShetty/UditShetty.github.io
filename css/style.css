@@ -8910,7 +8910,7 @@ h1, h2, h3, h4, h5,
   left: 0; }
 
 .ftco-hireme {
-  background: #3e64ff;
+  background: black;
   z-index: 0;
   position: relative; }
   .ftco-hireme .overlay {
@@ -8920,7 +8920,7 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    background: #3e64ff;
+    /* background: black; */
     opacity: .7; }
   .ftco-hireme h2 {
     color: #fff;
