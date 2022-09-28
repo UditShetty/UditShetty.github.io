@@ -8924,8 +8924,8 @@ h1, h2, h3, h4, h5,
     opacity: .7; }
   .ftco-hireme h2 {
     color: #fff;
-    font-size: 40px;
-    font-weight: 900; }
+    font-size: 30px;
+    font-weight: 350; }
     .ftco-hireme h2 span {
       color: #a0f669; }
   .ftco-hireme p {
@@ -8978,7 +8978,7 @@ h1, h2, h3, h4, h5,
       .project .overlay {
         opacity: .2; } }
   .project .text {
-    max-width: 80%;
+    max-width: 100%;
     z-index: 1;
     opacity: 0;
     -moz-transition: all 0.3s ease;
@@ -8987,9 +8987,9 @@ h1, h2, h3, h4, h5,
     -ms-transition: all 0.3s ease;
     transition: all 0.3s ease; }
     .project .text h3 {
-      font-size: 20px; }
+      font-size: 16px; }
       .project .text h3 a {
-        color: #fff; }
+        color: black; }
     .project .text span {
       color: rgba(255, 255, 255, 0.8);
       text-transform: uppercase;
@@ -8998,7 +8998,7 @@ h1, h2, h3, h4, h5,
       font-weight: 600; }
     @media (max-width: 767.98px) {
       .project .text {
-        opacity: 1; }
+        opacity: 0; }
         .project .text span {
           color: rgba(255, 255, 255, 0.8); } }
   .project:hover .overlay, .project:focus .overlay {
