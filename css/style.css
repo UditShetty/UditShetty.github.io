@@ -8801,7 +8801,8 @@ h1, h2, h3, h4, h5,
   position: relative; }
   .ftco-about .img-about .img {
     display: block;
-    width: 100%;
+    width: 90%;
+    height: 90%;
     position: relative;
     z-index: 1; }
 
@@ -9419,7 +9420,7 @@ textarea.form-control {
 
 .ftco-counter .block-18 {
   display: block;
-  width: 100%;
+  /* width: 100%; */
   text-align: center;
   padding: 30px 20px; }
 
